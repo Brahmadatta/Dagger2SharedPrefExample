@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger2ExampleSP</string>
+    <string name="username">Username</string>
+    <string name="number">Number</string>
+    <string name="save">Save</string>
+    <string name="get">Get</string>
+</resources>
