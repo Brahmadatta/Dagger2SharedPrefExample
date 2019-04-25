@@ -1,4 +1,4 @@
-package escapadetechnologies.com.dagger2examplesp;
+package Example.com.dagger2examplesp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

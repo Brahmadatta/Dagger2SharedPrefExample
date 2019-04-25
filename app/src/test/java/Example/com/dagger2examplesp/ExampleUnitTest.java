@@ -1,4 +1,4 @@
-package escapadetechnologies.com.dagger2examplesp;
+package Example.com.dagger2examplesp;
 
 import org.junit.Test;
 

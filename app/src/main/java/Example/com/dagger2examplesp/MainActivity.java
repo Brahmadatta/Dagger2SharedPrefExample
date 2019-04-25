@@ -1,4 +1,4 @@
-package escapadetechnologies.com.dagger2examplesp;
+package Example.com.dagger2examplesp;
 
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
